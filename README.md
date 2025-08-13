@@ -13,12 +13,12 @@ All expenses are stored in your browser’s localStorage so your data stays even
 💾 Saves expenses in localStorage for persistence
 
 ⚡ Instant updates without page reload
-
-<img src="./screenshot/Screenshot 2025-08-13 005919.png" alt="Expense Tracker Screenshot" width="400" className="flex items-center">
+<div align= "center">
+<img src="./screenshot/Screenshot 2025-08-13 005919.png" alt="Expense Tracker Screenshot" width="400">
 
 <img src="./screenshot/Screenshot 2025-08-13 005952.png" alt="Expense Tracker Screenshot" width="400">
-
-🛠 Tech Stack
+</div>
+# 🛠 Tech Stack
 
 HTML5
 
@@ -26,7 +26,7 @@ CSS3
 
 JavaScript (ES6+)
 
-📂 Installation & Setup
+# 📂 Installation & Setup
 
 bash
 
@@ -36,7 +36,7 @@ Edit
 
 # Clone the repository
 
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/Gaura89744/Expense_tracker_project.git
 
 # Navigate to project folder
 
