@@ -16,6 +16,7 @@ All expenses are stored in your browser’s localStorage so your data stays even
 <div align= "center" className="flex flex-col">
 <img src="./screenshot/Screenshot 2025-08-13 005919.png" alt="Expense Tracker Screenshot" width="400">
 
+
 <img src="./screenshot/Screenshot 2025-08-13 005952.png" alt="Expense Tracker Screenshot" width="400">
 </div>
 # 🛠 Tech Stack
