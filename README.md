@@ -34,10 +34,13 @@ Edit
 git clone https://github.com/yourusername/expense-tracker.git
 
 # Navigate to project folder
+
 cd expense-tracker
 
 # Open index.html in your browser
+
 📜 Usage
+
 Enter the Expense Name and Amount in the form
 
 Click Add Expense to add it to the list
@@ -51,6 +54,7 @@ The Total Price will automatically update
 Data is saved locally so it remains even after refreshing
 
 💡 Future Improvements
+
 Edit expense feature
 
 Filter expenses by date or category
